@@ -1,21 +1,26 @@
+/*===============NAVBAR========*/
+a.navbar-brand.text-white.border.p-3.m-0.aquablue {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+
 body {
     background-image: url(images/background.png);
 }
 
 /*=============== FOOTER ==============*/
 .foot {
-    background-color: #666666;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    padding:15px;
+    background-color: #666666;  
 }
-footer {
-    color: white;
-    margin-bottom: -12px;
-    font-size: x-small
+.foot.p-3.text-center.fixed-bottom {
+    border-top: solid;
+    border-color: #4aaaa5;
 }
-div#bord {
-    border-top: solid #4aaaa5 6px;
+
+/*============INDEX PAGE==========*/
+h4.col-md-3.pt-2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
