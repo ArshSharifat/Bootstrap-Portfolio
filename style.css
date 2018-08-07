@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/background.png);
+}
+
+/*=============== FOOTER ==============*/
+.foot {
+    background-color: #666666;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding:15px;
+}
+footer {
+    color: white;
+    margin-bottom: -12px;
+    font-size: x-small
+}
+div#bord {
+    border-top: solid #4aaaa5 6px;
