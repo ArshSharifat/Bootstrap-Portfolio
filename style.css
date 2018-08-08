@@ -38,3 +38,16 @@ h4.col-md-3.pt-2 {
 
 
 /*============CONTACT PAGE==========*/
+
+input[type="text"] {
+    width: -webkit-fill-available;
+}
+
+input[type="email"] {
+    width: -webkit-fill-available;
+}
+
+textarea.textbox {
+    width: -webkit-fill-available;
+    border-color: #dddddd;
+}
