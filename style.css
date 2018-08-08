@@ -14,7 +14,7 @@ body {
 .foot {
     background-color: #666666;  
 }
-.foot.p-3.text-center.fixed-bottom {
+.foot.p-1.text-center.fixed-bottom {
     border-top: solid;
     border-color: #4aaaa5;
 }
@@ -24,3 +24,17 @@ h4.col-md-3.pt-2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
 }
+
+
+/*============PORTFOLIO PAGE==========*/
+
+.text-box {
+    position: absolute;
+    background-color:#4aaaa5;
+    width: -webkit-fill-available;
+    margin-top: 215px;
+}
+
+
+
+/*============CONTACT PAGE==========*/
