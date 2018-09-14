@@ -1,6 +1,6 @@
 /*===============NAVBAR========*/
 a.navbar-brand.text-white.border.p-3.m-0.aquablue {
-    background-color: #4aaaa5;
+    background-color: red;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
@@ -12,17 +12,17 @@ body {
 
 /*=============== FOOTER ==============*/
 .foot {
-    background-color: #666666;  
+    background-color: black;  
 }
 .foot.p-1.text-center.fixed-bottom {
     border-top: solid;
-    border-color: #4aaaa5;
+    border-color: red;
 }
 
 /*============INDEX PAGE==========*/
 h4.col-md-3.pt-2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
-    color: #4aaaa5;
+    color: red;
 }
 
 
@@ -30,7 +30,7 @@ h4.col-md-3.pt-2 {
 
 .text-box {
     position: absolute;
-    background-color:#4aaaa5;
+    background-color: grey;
    width: 300px;
     margin-top: 215px;
 }
@@ -49,5 +49,5 @@ input[type="email"] {
 
 textarea.textbox {
     width: -webkit-fill-available;
-    border-color: #dddddd;
+    border-color: #ddddd;
 }
