@@ -1,7 +1,10 @@
 /*===============NAVBAR========*/
-a.navbar-brand.text-white.border.p-3.m-0.aquablue {
+a.navbar-brand.border.p-3.m-0.aquablue {
     background-color: red;
     font-family: 'Georgia', Times, Times New Roman, serif;
+}
+a#my-name {
+    font-family: 'Kodchasan', sans-serif;
 }
 
 
@@ -17,6 +20,9 @@ body {
 .foot.p-1.text-center.fixed-bottom {
     border-top: solid;
     border-color: red;
+}
+footer.small {
+    font-family: 'Kodchasan', sans-serif;
 }
 
 /*============INDEX PAGE==========*/
